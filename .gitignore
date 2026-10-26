@@ -1,0 +1,9 @@
+node_modules
+dist
+android
+.env
+.env.*
+*.jks
+*.keystore
+service-account*.json
+*.csv
